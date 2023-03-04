@@ -1,0 +1,2 @@
+# Calculadora
+Generando componentes 
